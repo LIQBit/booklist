@@ -1,4 +1,4 @@
-#Booklist - A Checklist App
+# Booklist - A Checklist App
 
 This is a small project built to test and practice using React context, and later some elements of Redux such as reducers.
 
