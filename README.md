@@ -1,3 +1,13 @@
+#Booklist - A Checklist App
+
+This is a small project built to test and practice using React context, and later some elements of Redux such as reducers.
+
+You can add the title and author of books on your "to read list" as well as delete any entries by clicking on a title.
+
+Will also save to local storage.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
